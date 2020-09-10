@@ -1,0 +1,6 @@
+D:\Samples\Product.Models\bin\Debug\Product.Models.dll
+D:\Samples\Product.Models\bin\Debug\Product.Models.pdb
+D:\Samples\Product.Models\obj\Debug\Product.Models.csprojAssemblyReference.cache
+D:\Samples\Product.Models\obj\Debug\Product.Models.csproj.CoreCompileInputs.cache
+D:\Samples\Product.Models\obj\Debug\Product.Models.dll
+D:\Samples\Product.Models\obj\Debug\Product.Models.pdb

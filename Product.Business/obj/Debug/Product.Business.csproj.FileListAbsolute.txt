@@ -1,0 +1,14 @@
+D:\Samples\Product.Business\bin\Debug\Product.Business.dll
+D:\Samples\Product.Business\bin\Debug\Product.Business.pdb
+D:\Samples\Product.Business\obj\Debug\Product.Business.csprojAssemblyReference.cache
+D:\Samples\Product.Business\obj\Debug\Product.Business.csproj.CoreCompileInputs.cache
+D:\Samples\Product.Business\obj\Debug\Product.Business.dll
+D:\Samples\Product.Business\obj\Debug\Product.Business.pdb
+D:\Samples\Product.Business\bin\Debug\Product.Data.dll
+D:\Samples\Product.Business\bin\Debug\Product.Models.dll
+D:\Samples\Product.Business\bin\Debug\EntityFramework.dll
+D:\Samples\Product.Business\bin\Debug\Product.Data.pdb
+D:\Samples\Product.Business\bin\Debug\Product.Data.dll.config
+D:\Samples\Product.Business\bin\Debug\Product.Models.pdb
+D:\Samples\Product.Business\bin\Debug\EntityFramework.xml
+D:\Samples\Product.Business\obj\Debug\Product.Business.csproj.CopyComplete

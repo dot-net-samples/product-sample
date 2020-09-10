@@ -1,0 +1,14 @@
+D:\Samples\Product.Data\obj\Debug\Product.Data.csprojAssemblyReference.cache
+D:\Samples\Product.Data\obj\Debug\Product.Data.csproj.CoreCompileInputs.cache
+D:\Samples\Product.Data\bin\Debug\Product.Data.dll
+D:\Samples\Product.Data\bin\Debug\Product.Data.pdb
+D:\Samples\Product.Data\obj\Debug\Product.Data.dll
+D:\Samples\Product.Data\obj\Debug\Product.Data.pdb
+D:\Samples\Product.Data\bin\Debug\Product.Data.dll.config
+D:\Samples\Product.Data\bin\Debug\EntityFramework.dll
+D:\Samples\Product.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Product.Data\bin\Debug\Product.Models.dll
+D:\Samples\Product.Data\bin\Debug\Product.Models.pdb
+D:\Samples\Product.Data\bin\Debug\EntityFramework.xml
+D:\Samples\Product.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Product.Data\obj\Debug\Product.Data.csproj.CopyComplete
